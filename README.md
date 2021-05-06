@@ -4,7 +4,7 @@
 ## Description
 In computer science, tree traversal (also known as tree search and walking the tree) is a form of graph traversal and refers to the process of visiting (checking and/or updating) each node in a tree data structure, exactly once.
 
-### [Binary Search Tree](https://en.wikipedia.org/wiki/Tree_traversal)
+### [Tree Traversal](https://en.wikipedia.org/wiki/Tree_traversal)
 Unlike linked lists, one-dimensional arrays and other linear data structures, which are canonically traversed in linear order, trees may be traversed in multiple ways.
 They may be traversed in:
 * __Depth-First__ order
